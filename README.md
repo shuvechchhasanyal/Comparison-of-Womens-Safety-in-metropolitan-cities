@@ -1,2 +1,2 @@
 # Comparison-of-Womens-Safety-in-metropolitan-cities
-Collection of  primary data with regard to safety of women in metropolitan cities (Kolkata, Bengaluru, Mumbai and Delhi NCR) and concluded which city among the aforementioned cities was the safest for women.
+Collection of  primary data with regard to safety of women in metropolitan cities (Kolkata, Bengaluru, Mumbai and Delhi NCR) and drew a conclusion as to which city among the aforementioned cities was the safest for women.Secondary data was also collected from NCRB(National Crime Records Bureau) as to check whether the conclusions aligned with the conclusions of the primary data as a whole.
